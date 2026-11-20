@@ -9,16 +9,12 @@ The wrapper classes are the author's own code. This SDK ships them as
 runnable code, documents how each class works, and adds tutorials that
 show the intended usage.
 
-> **Status: test files are live on GitHub; the rest is local.**
-> Five test files were pushed on 2026-11-20 to the public repo
+> **Status: live on GitHub.** The full SDK was pushed on 2026-11-20 to
+> the public repo
 > [junhyung80/Keysight-Visual-SDK](https://github.com/junhyung80/Keysight-Visual-SDK)
-> (commit `fd755a96`: `tutorials/01_create_nodes.py`, `jvisu/core/node.py`,
-> `jvisu/core/check.py` and the package `__init__.py` files). The rest of
-> this folder — this README, `docs/`, tutorials 02–03, `jvisu/core/elem.py`
-> and `jvisu/core/part.py` — is prepared locally and goes up only after
-> the author confirms it. Publication still needs the author's
-> IP/licence check for documenting an interface to a commercial product
-> (Visual-Environment).
+> (test files in commit `fd755a96`, the rest in commit `4a68d5fb`).
+> Publication still needs the author's IP/licence check for documenting
+> an interface to a commercial product (Visual-Environment).
 
 ## What is in here
 
